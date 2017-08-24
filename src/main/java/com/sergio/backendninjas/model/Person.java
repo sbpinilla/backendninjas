@@ -10,6 +10,12 @@ public class Person {
 		this.name = name;
 		this.age = age;
 	}
+	
+	
+
+	public Person() {}
+
+
 
 	// Get and Set
 	public String getName() {

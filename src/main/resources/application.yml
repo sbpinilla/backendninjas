@@ -1,4 +1,10 @@
 
 #Propiedades de spring 
 
+#Propiedades Servidor
+server:
+  error:
+    whitelabel:
+      enabled: false
+      
     
